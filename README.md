@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Vahe 👋  
 
-<!--
-**vaahe/vaahe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | C++ & TypeScript | SaaS Builder  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Frontend:** React.js, Next.js, Tailwind  
+- **Backend:** Node.js, NestJS, Express.js  
+- **Languages:** C++, TypeScript, Python  
+- **Databases:** PostgreSQL, MongoDB, SQLite  
+- **Other:** Docker, AWS, OpenCV  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Projects 
+- [Furniture Optimizer](https://github.com/vaahe/design-craft) – Qt/C++ 3D furniture design & cutting optimization tool  
+- [Phishing Awareness App](https://github.com/yourrepo) – Express/React training platform  
+
+### 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/vaahe/)  
