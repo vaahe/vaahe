@@ -11,7 +11,6 @@
 
 ### 🌟 Featured Projects 
 - [Furniture Optimizer](https://github.com/vaahe/design-craft) – Qt/C++ 3D furniture design & cutting optimization tool  
-- [Phishing Awareness App](https://github.com/yourrepo) – Express/React training platform  
 
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/vaahe/)  
