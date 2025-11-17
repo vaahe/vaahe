@@ -4,7 +4,7 @@
 
 ### 🔧 Tech Stack
 - **Frontend:** React.js, Next.js, Tailwind  
-- **Backend:** Node.js, NestJS, Express.js  
+- **Backend:** Node.js, NestJS, Express.js, ASP.NET Core
 - **Languages:** C++, C#, TypeScript, JavaScript  
 - **Databases:** PostgreSQL, MongoDB, SQLite, MSSQL, Redis 
 - **Other:** Docker, AWS, Kafka, OpenCV  
